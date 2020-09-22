@@ -1,16 +1,50 @@
 [
     {
-        "id": "Lorem",
-        "title": "Lorem ipsum",
-        "reference" : "Sedilam",
-        "media" :"https://static.posters.cz/image/1300/stampe/gustav-klimt-il-prato-i72986.jpg",
-        "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet"
+        "id": "0",
+        "title": "Gustav Klimt",
+        "subtitle" : "Vienna July 14, 1862 - Vienna February 6, 1918",
+        "reference" : "Vienna seccesionists",
+        "media" :"https://www.cimplicity.co.za/wp-content/uploads/2017/10/gustav-klimt_3035697b.jpg",
+        "content": "Klimt is one of the founders of Vienna Secession, the Union of Austrian Artists (on 3 April 1897). Painters, graphic artists, sculptors and architects, united for less traditional art and more freedom of expression. Klimt ranged between eroticism, landscapes and portraits, around 1814 he was criticized  for decorating the Great Hall of the University of Vienna with three audacious paintings. The three pieces were destroied when Schloss Immendorf was burned in May 1945."
     },
     {
-        "id": "Ipsum",
-        "title": "Dolor sit amet",
-        "reference" : "Sedilam",
-        "media" :"https://lh3.googleusercontent.com/proxy/CcjTJAGVBsbpIHGKRqr5A9zKwnZA5eF1XlKghggcTyUyK5z9oJKcD8Yz_ZFWzZJxdpZwuCpIdthr0W8FDl7zP5WkX8w4jL7YfSx0vA",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+        "id": "373773",
+        "title": "Pallas Athene",
+        "subtitle" : "1898 Wien Museum",
+        "reference" : "Klimt",
+        "media" :"https://cultura.biografieonline.it/wp-content/uploads/2015/11/Pallade-Atena-Klimt-Pallas-Athene-1898.jpg",
+        "content": ""
+    },
+    {
+        "id": "84837",
+        "title": "Phylosophy",
+        "subtitle" : "1899",
+        "reference" : "Klimt",
+        "media": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/philosophy-1899-gustav-klimt.jpg",
+        "content": ""
+    },
+    {
+        "id": "22829",
+        "title": "Golden Phase",
+        "subtitle" : "Golden Phase",
+        "reference" : "Klimt",
+        "media" :"https://images-na.ssl-images-amazon.com/images/I/81yaW3xnbGL._AC_SL1450_.jpg",
+        "content": "In its Golden Phase, Klimt heavily used golden leafs, it can bee seen in the Portrait of Adele Bloch-Bauer I (1907), The Kiss (1907–08) and The Three Ages of Woman (1905)"
+    },
+    {
+        "id": "2738393",
+        "title": "Three of life",
+        "subtitle" : "1905",
+        "reference" : "Klimt",
+        "media" :"https://www.gustav-klimt.com/images/paintings/The-Tree-Of-Life.jpg",
+        "content": "The only landscape during Gustav Klimt golden period"
+    },
+    {
+        "id": "562839",
+        "title": "Adele Bloch-Bauer I",
+        "subtitle" : "1907",
+        "reference" : "Klimt",
+        "media": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Gustav_Klimt_046.jpg/440px-Gustav_Klimt_046.jpg",
+        "content": "Klimt pieces have been sold as some of the highest prices recorded for individual works of art, Adele Bloch-Bauer I $135 million, Adele Bloch-Bauer II $150 million"
     }
 ]

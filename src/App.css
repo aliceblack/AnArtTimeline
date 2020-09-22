@@ -44,6 +44,7 @@
 }
 
 .media-style { /*compulsory to set heigh for card images*/
-  height: 6em;
-  min-height: 6em;
+  height: 100%;
+  min-height: 10em;
+  background-position: top!important;
 }

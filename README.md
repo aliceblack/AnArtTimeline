@@ -1,3 +1,11 @@
+# An Art Timeline
+
+A timeline for Art hystory.
+
+![Screenshot](images/screen_timeline.png)
+
+# React
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

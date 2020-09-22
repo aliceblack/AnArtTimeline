@@ -30,11 +30,11 @@ class Board extends React.Component {
            <CardMedia
         className="media-style"
         image={item?.media}
-        title="Live from space album cover"
+        title={item?.title}
       />
           <CardContent>
             <Typography  color="textSecondary" gutterBottom>
-              {item?.id}
+              {item?.subtitle}
             </Typography>
             <Typography variant="h5" component="h2">
               {item?.title}
