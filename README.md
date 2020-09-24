@@ -1,8 +1,18 @@
 # An Art Timeline
 
-A timeline for Art hystory.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8ff38614-c319-4f1a-9089-ab2a70ed9478/deploy-status)](https://app.netlify.com/sites/admiring-booth-927c89/deploys) 
+
+A timeline for Art hystory:
+
+> https://admiring-booth-927c89.netlify.app/
 
 ![Screenshot](images/screen_timeline.png)
+
+
+## Netlify
+
+If Netlify is treating warnings as errors, use `CI= npm run build`.
+
 
 # React
 
